@@ -19,3 +19,24 @@ C:\Users\aneta\Source\Repos\Authentica\Authentica\obj\Debug\net6.0-windows\refin
 C:\Users\aneta\Source\Repos\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica.pdb
 C:\Users\aneta\Source\Repos\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica.genruntimeconfig.cache
 C:\Users\aneta\Source\Repos\Authentica\Authentica\obj\Debug\net6.0-windows\ref\Authentica.dll
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\bin\Debug\net6.0-windows\Authentica.exe
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\bin\Debug\net6.0-windows\Authentica.deps.json
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\bin\Debug\net6.0-windows\Authentica.runtimeconfig.json
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\bin\Debug\net6.0-windows\Authentica.dll
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\bin\Debug\net6.0-windows\Authentica.pdb
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\App.g.cs
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica_MarkupCompile.cache
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica_MarkupCompile.lref
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica.g.resources
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica.GeneratedMSBuildEditorConfig.editorconfig
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica.AssemblyInfoInputs.cache
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica.AssemblyInfo.cs
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica.csproj.CoreCompileInputs.cache
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica.sourcelink.json
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica.dll
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\refint\Authentica.dll
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica.pdb
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\Authentica.genruntimeconfig.cache
+F:\Foldery\Szkoła\Studia\Uniwersytet Ekonomiczny\Kryptografia\Authentica\Authentica\obj\Debug\net6.0-windows\ref\Authentica.dll
