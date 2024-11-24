@@ -39,5 +39,26 @@ namespace Authentica
         {
 
         }
+
+        private void ButtonClick(object sender, RoutedEventArgs e)
+        {
+            bool isRadioChecked = false;
+            bool isListItemChecked = false;
+
+            foreach (var radioButton in RadioButtonGroup.Children.OfType<RadioButton>())
+            {
+                if (radioButton.IsChecked == true)
+                {
+                    MessageBox.Show($"Wybrano: {radioButton.Content}");
+                    isRadioChecked = true;
+                }
+
+            }
+
+            if (!isRadioChecked)
+            {
+                MessageBox.Show("Nie wybrano certyfikatu", "Informacja", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
+        }
     }
 }

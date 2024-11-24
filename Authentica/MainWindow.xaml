@@ -7,14 +7,16 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Background="#FF033644" >
-        <Button Content="Generuj certyfikat" HorizontalAlignment="Center" Height="44" Margin="0,316,0,0" VerticalAlignment="Top" Width="186" Background="White" Foreground="#FF033644" FontWeight="Bold" FontSize="20"/>
+        <Button Content="Generuj certyfikat" HorizontalAlignment="Center" Height="44" Margin="0,316,0,0" VerticalAlignment="Top" Width="186" Background="White" Foreground="#FF033644" FontWeight="Bold" FontSize="20" Click="ButtonClick"/>
         <TextBlock HorizontalAlignment="Center" Height="70" Margin="0,27,0,0" TextWrapping="Wrap" Text="Authentica" VerticalAlignment="Top" Width="248" FontSize="50" TextAlignment="Center" Foreground="White"/>
         <TextBlock HorizontalAlignment="Left" Height="35" Margin="79,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" FontSize="20"><Run Language="pl-pl" Text="Rodzaj certyfikatu:" Foreground="White"/></TextBlock>
-        <RadioButton Content="RSA" HorizontalAlignment="Left" Height="24" Margin="271,121,0,0" VerticalAlignment="Top" Width="122" Checked="RadioButton_Checked" FontSize="20" Foreground="White"/>
-        <RadioButton Content="DSA" HorizontalAlignment="Left" Height="24" Margin="404,121,0,0" VerticalAlignment="Top" Width="122" Checked="RadioButton_Checked" FontSize="20" Foreground="White"/>
-        <RadioButton Content="SSH-1 (RSA)" HorizontalAlignment="Left" Height="24" Margin="538,121,0,0" VerticalAlignment="Top" Width="142" Checked="RadioButton_Checked" FontSize="20" Foreground="White"/>
+        <Grid x:Name="RadioButtonGroup">
+            <RadioButton x:Name="rsaRadioButton" GroupName="Radio" Content="RSA" HorizontalAlignment="Left" Height="24" Margin="271,121,0,0" VerticalAlignment="Top" Width="122" Checked="RadioButton_Checked" FontSize="20" Foreground="White"/>
+            <RadioButton x:Name="dsaRadioButton" GroupName="Radio" Content="DSA" HorizontalAlignment="Left" Height="24" Margin="404,121,0,0" VerticalAlignment="Top" Width="122" Checked="RadioButton_Checked" FontSize="20" Foreground="White"/>
+            <RadioButton x:Name="sshRadioButton" GroupName="Radio" Content="SSH-1 (RSA)" HorizontalAlignment="Left" Height="24" Margin="538,121,0,0" VerticalAlignment="Top" Width="142" Checked="RadioButton_Checked" FontSize="20" Foreground="White"/>
+        </Grid>
         <TextBlock HorizontalAlignment="Left" Height="38" Margin="79,179,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="358" FontSize="20"><Run Language="pl-pl" Text="Liczba bitów w wygenerowanym kluczu:" Foreground="White"/></TextBlock>
-        <ListBox HorizontalAlignment="Left" Height="89" Margin="456,181,0,0" VerticalAlignment="Top" Width="176" d:ItemsSource="{d:SampleData ItemCount=4}" SelectionChanged="ListBox_SelectionChanged">
+        <ListBox HorizontalAlignment="Left" Height="89" Margin="456,181,0,0" VerticalAlignment="Top" Width="176" SelectionChanged="ListBox_SelectionChanged">
             <ListBoxItem Content="1024" FontSize="18"/>
             <ListBoxItem Content="2048" FontSize="18"/>
             <ListBoxItem Content="3072" FontSize="18"/>
