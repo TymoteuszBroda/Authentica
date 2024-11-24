@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Authentica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+168f3b1bda310b15abe10e9afb2215908281524b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f777b7e14d5e6dd428638e334d419926a894da57")]
 [assembly: System.Reflection.AssemblyProductAttribute("Authentica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Authentica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
